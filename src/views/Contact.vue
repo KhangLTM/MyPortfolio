@@ -72,7 +72,7 @@
 							name="message"
 							cols="14"
 							rows="6"
-							placeholder="This contact isn't completely done . Please contact me by email or phone. Thanks You"
+							placeholder="This contact isn't completely done . Please contact me via email or phone. Thank You"
 						
 						></textarea>
 					</div>

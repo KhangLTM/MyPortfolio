@@ -6,16 +6,20 @@
 			<div class="flex justify-between items-center">
 				<div class="cuisor-pointer text-2xl dark:text-white ">
 					<router-link
-						to="/"
-					>KhangLTM's Portfolio
-					
+						to="/"  >	
+						<div class="w-1/6 lg:w-20">
+							<img v-if="theme=='light'" src="../../assets/images/K-logo-dark.jpg">
+							<img v-else src="../../assets/images/K-logo-dark.jpg">
+
+						</div>				
 					</router-link>
+				
 				</div>
 
 				<theme-switcher
 					:theme="theme"
 					@themeChanged="updateTheme"
-					class="block sm:hidden bg-ternary-light dark:bg-ternary-dark hover:bg-hover-light dark:hover:bg-hover-dark hover:shadow-sm px-2.5 py-2 rounded-lg ml-10"
+					class="mr-5 block sm:hidden bg-ternary-light dark:bg-ternary-dark hover:bg-hover-light dark:hover:bg-hover-dark hover:shadow-sm px-2.5 py-2 rounded-lg ml-10"
 				/>
 
 				<div class="sm:hidden">

@@ -26,7 +26,7 @@ export default {
 			const newTheme = this.theme === 'light' ? 'dark' : 'light';
 			localStorage.setItem('theme', newTheme);
 			this.$emit('themeChanged', newTheme);
-			location.reload();	
+			location.reload()
 		},
 	},
 };

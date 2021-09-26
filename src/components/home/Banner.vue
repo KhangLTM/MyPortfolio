@@ -10,9 +10,9 @@
 				Hi, I'M KHANG
 			</h1>
 			<p
-				class="mt-4 text-2xml sm:text-4xl text-center sm:text-left font-semibold leading-none text-gray-400"
+				class="mt-4 text-2xml sm:text-2xl text-center sm:text-left font-semibold leading-none text-gray-400"
 			>
-				I'm Front End Developer
+				I'm Learning To Be A Front End Developer
 			</p>
 			<div class="flex justify-center sm:block">
 				<a

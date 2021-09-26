@@ -72,9 +72,9 @@
 				<div>
 					<a 
 					target="_blank"
-					href="https://nuxtlanding-khangltm.netlify.app/">
+					href="https://vuemmerce-khangltm.netlify.app/">
 					<img
-						src="../../assets/images/ui-project-3.png"
+						src="../../assets/images/ui-project-3.png"	
 						alt=""
 						class="rounded-t-3xl border-none"
 					/>
@@ -84,11 +84,11 @@
 					<p
 						class="text-2xl text-ternary-dark dark:text-ternary-light font-semibold mb-2"
 					>
-						Nuxt LandingPage
+						Vuemmerce
 					</p>
 					<span
 						class="text-lg text-ternary-dark dark:text-ternary-light"
-						>UI / Frontend</span
+						>  UI/Ecommerce</span
 					>
 				</div>
 			</div>

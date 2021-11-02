@@ -1,6 +1,7 @@
 # Vuejs & TailwindCSS Portfolio - With Dark Mode
 
-A simple portfolio starter theme built on the top of Vue.js V3 and TailwindCSS V2
+A simple portfolio starter theme built on the top of Vue.js  and TailwindCSS 
+https://khang-ltm.netlify.app/#/
 
 
 ## Features

@@ -74,7 +74,7 @@
 					target="_blank"
 					href="https://vuemmerce-khangltm.netlify.app/">
 					<img
-						src="../../assets/images/ui-project-3(1).png"	
+						src="../../assets/images/ui-project(1)-3.png"	
 						alt=""
 						class="rounded-t-3xl border-none"
 					/>
